@@ -1,4 +1,4 @@
-# Formule-1-analyse-de-la-relation-masse-salariale-et-performance-des-curies
+# Formule-1-analyse-de-la-relation-masse-salariale-et-performance-des-écuries
 
 Cette étude examine l'impact des budgets des équipes de Formule 1 sur leurs performances sportives entre 2010 et 2022. L'objectif est de déterminer si un budget plus élevé conduit systématiquement à de meilleurs résultats en championnat.
 
